@@ -35,3 +35,9 @@ This project is an API to register and authenticate users. The idea of ​​the
     "dev": "nodemon ./src/server.js"
   },
 ```
+
+## Execute porject with Nodemon
+
+```
+yarn dev
+```
