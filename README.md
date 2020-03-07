@@ -23,8 +23,8 @@ This project is an API to register and authenticate users. The idea of ​​the
 
 ## Actions that the API takes
 
-[X] Register User
-[X] Authenticate User
+- [X] Register User
+- [X] Authenticate User
 
 
 ## Configuring the Nodemon
