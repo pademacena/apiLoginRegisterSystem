@@ -36,7 +36,7 @@ This project is an API to register and authenticate users. The idea of ​​the
   },
 ```
 
-## Execute porject with Nodemon
+## Run porject with Nodemon
 
 ```
 yarn dev
